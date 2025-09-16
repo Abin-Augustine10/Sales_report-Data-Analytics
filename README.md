@@ -47,7 +47,7 @@ The project uses **3 datasets**:
 ![Python Dashboard](charts/dashboard.png)  
 
 ### Power BI Dashboard  
-*(Insert a screenshot of your Power BI dashboard here)*  
+//*(Insert a screenshot of your Power BI dashboard here)*  
 
 ---
 
