@@ -69,12 +69,12 @@ The project uses **3 datasets**:
 1. Clone the repo:
    ```bash
    git clone https://github.com/Abin-Augustine10/sales-analytics-dashboard.git
+   
+2. Install dependencies:
+   ```bash
+    pip install pandas matplotlib seaborn openpyxl
 
-Install dependencies:
-
-pip install pandas matplotlib seaborn openpyxl
-
-Run the analysis:
-
-python sales_analytics.py
+3. Run the analysis:
+    ```bash
+    python sales_analytics.py
 
