@@ -45,12 +45,12 @@ The project uses **3 datasets**:
 ## 🖼️ Dashboard Preview
 ### Python Mini Dashboard  
 ![Python Dashboard](charts/dashboard.png)  
-
+<!--
 ### Power BI Dashboard  
 //*(Insert a screenshot of your Power BI dashboard here)*  
-
+-->
 ---
-
+<!--
 ## 📂 Project Structure
 
 ├── data/
@@ -62,13 +62,13 @@ The project uses **3 datasets**:
 ├── sales_analytics.py # Python code for analysis
 ├── dashboard.pbix # Power BI file (if included)
 └── README.md
-
+-->
 ---
 
 ## 🔑 How to Run
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Abin-Augustine10/sales-analytics-dashboard.git
+   git clone https://github.com/Abin-Augustine10/Sales_report-Data-Analytics.git
    
 2. Install dependencies:
    ```bash
