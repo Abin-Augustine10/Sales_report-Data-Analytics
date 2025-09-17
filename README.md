@@ -45,10 +45,10 @@ The project uses **3 datasets**:
 ## 🖼️ Dashboard Preview
 ### Python Mini Dashboard  
 ![Python Dashboard](charts/dashboard.png)  
-<!--
+
 ### Power BI Dashboard  
-//*(Insert a screenshot of your Power BI dashboard here)*  
--->
+![Power BI Dashboard](Sales_Dashboard.png)
+
 ---
 <!--
 ## 📂 Project Structure
