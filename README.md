@@ -49,7 +49,6 @@ The project uses **3 datasets**:
 ### Power BI Dashboard  
 ![Power BI Dashboard](Sales_Dashboard.png)
 
----
 <!--
 ## 📂 Project Structure
 
